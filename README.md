@@ -118,7 +118,7 @@ CALCULATE(
 ## 📷 Dashboard Screenshots
  
 ### Executive Summary
-![Executive Summary](Screenshots/executive_summary.png)
+![Executive Summary](Screenshots/Executive_summry.png)
  
 ### Product Analysis
 ![Product Analysis](Screenshots/product_analysis.png)
