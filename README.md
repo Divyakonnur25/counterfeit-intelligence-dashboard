@@ -162,14 +162,14 @@ Data Analyst Intern | Computer Science Engineering
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/divya-konnur)
 [![GitHub](https://img.shields.io/badge/GitHub-Divyakonnur25-black?logo=github)](https://github.com/Divyakonnur25)
-[![Portfolio](https://img.shields.io/badge/Portfolio-AttritionIQ-green)](https://divyakonnur25.github.io/AttritionIQ)
+
  
 ---
  
 ## 📁 Related Projects
  
 - [AttritionIQ](https://github.com/Divyakonnur25/AttritionIQ) — HR attrition analysis on IBM dataset (1,470 records) using Python, SQL, and Power BI
-- Google Play Store Analysis — app performance analysis on ~10,000 records
+- [Google Play Store Analysis](https://github.com/Divyakonnur25/Google_play_store) — app performance analysis on ~10,000 records
 ---
  
 *Built as part of a self-directed data analytics portfolio. All data is synthetically generated for educational purposes.*
