@@ -118,17 +118,16 @@ CALCULATE(
 ## 📷 Dashboard Screenshots
  
 ### Executive Summary
-![Executive Summary](Screenshot/Executive_summry.png)
- 
+![Executive Summary](Screenshots/Executive_summry.png)
+
 ### Product Analysis
-![Product Analysis](Screenshot/Product_Analysis.png)
- 
+![Product Analysis](Screenshots/Product_Analysis.png)
+
 ### Transaction Analysis
-![Transaction Analysis](Screenshot/Transaction_Analysis.png)
- 
+![Transaction Analysis](Screenshots/Transaction_Analysis.png)
+
 ### Risk Analysis
-![Risk Analysis](Screenshot/Risk_Analysis.png)
- 
+![Risk Analysis](Screenshots/Risk_Analysis.png)
 ---
  
 ## 💡 Business Recommendations
