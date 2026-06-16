@@ -154,7 +154,9 @@ Insights & Recommendations
 ```
  
 ---
- 
+# 🛡️ Counterfeit Intelligence Dashboard
+
+🔗 **GitHub Repository:** https://github.com/Divyakonnur25/counterfeit-intelligence-dashboard
 ## 👩‍💻 Author
  
 **Divya Raghavendra Konnur**
